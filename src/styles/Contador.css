@@ -1,0 +1,25 @@
+.caja{
+    width: 80%;
+    aspect-ratio: 6/1;
+
+}
+.digito{
+    width: 10%;
+    height: 80%;
+    font-size: 7rem;
+}
+
+    
+
+.icono{
+    width: 80%;
+    height: auto;
+}
+.btn{
+    width: fit-content;
+    margin: 1rem;
+}
+ul{
+    width: 80%;
+    height: auto;
+}
